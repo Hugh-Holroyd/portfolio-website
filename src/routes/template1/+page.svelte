@@ -20,13 +20,13 @@
 
 <Header entries={{ "Home": "#about", "Projects": "#projects", "Experience": "#awards", "Contact": "#cta" }} />
 
-<section
+<section class="w3-container -right"
   id="about"
   style="--imageUrl: url({`${assets}/images/${info.heroImage}`});"
 >
   <div class="header-text">
-    <h1>{info.firstName} {info.lastName}</h1>
-    <h2>{info.tagLine}</h2>
+    <h2>{info.firstName} {info.lastName}</h2>
+    <h3>{info.tagLine}</h3>
   </div>
 </section>
 

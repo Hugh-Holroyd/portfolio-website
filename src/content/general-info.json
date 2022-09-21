@@ -1,8 +1,8 @@
 {
-  "firstName": "Etienne",
-  "lastName": "Naude",
-  "heroImage": "gondola.png",
-  "tagLine": "Software and Design",
+  "firstName": "Hugh",
+  "lastName": "Holroyd",
+  "heroImage": "gondola.webp",
+  "tagLine": "Mechatronics and Design",
   "contacts": [
     {
       "type": "Email",
